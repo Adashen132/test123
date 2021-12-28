@@ -5,6 +5,7 @@ package com.cyb.entity;
  * @create 2021-11-23 10:33
  */
 public class Question {
+    private Integer ss;
     private Integer questionId;
     private String title;
     private String optionA;
